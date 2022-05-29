@@ -29,3 +29,7 @@ I changed on *HTML* file and *CSS* file to change the layout of the web app and 
 ## JS Version
 
 ES6
+
+======
+# Review
+![image](https://user-images.githubusercontent.com/68661572/170857073-12bc7137-20a7-427b-9a7c-039a07cdc605.png)
